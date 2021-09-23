@@ -1,2 +1,2 @@
 # NeuralNetClass
-Repository to backup my neural network homework
+Repository to backup my neural networks homework
